@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import br.com.tokiomarine.damain.Cliente;
+import br.com.tokiomarine.domain.Cliente;
 import br.com.tokiomarine.repository.ClienteRepository;
 
 @RestController

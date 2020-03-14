@@ -1,4 +1,4 @@
-package br.com.tokiomarine.damain;
+package br.com.tokiomarine.domain;
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
